@@ -7,17 +7,47 @@ import {
 } from "react";
 
 interface InstallContextType {
-  installStatus: boolean;
-  setInstallStatus: React.Dispatch<React.SetStateAction<boolean>>;
+  installedApps: string[];
+  installApp: (id: string) => void;
+  uninstallApp: (id: string) => void;
+  isInstalled: (id: string) => boolean;
 }
 
-export const IsInstalled = createContext<InstallContextType | null>(null);
+export const IsInstalled =
+  createContext<InstallContextType | null>(null);
 
 const InstallContext = ({ children }: { children: ReactNode }) => {
-  const [installStatus, setInstallStatus] = useState(false);
+  const [installedApps, setInstalledApps] = useState<string[]>([]);
+
+  const installApp = (id: string) => {
+    setInstalledApps((prev) => {
+      if (prev.includes(id)) {
+        return prev;
+      }
+
+      return [...prev, id];
+    });
+  };
+
+  const uninstallApp = (id: string) => {
+    setInstalledApps((prev) =>
+      prev.filter((appId) => appId !== id)
+    );
+  };
+
+  const isInstalled = (id: string) => {
+    return installedApps.includes(id);
+  };
 
   return (
-    <IsInstalled.Provider value={{ installStatus, setInstallStatus }}>
+    <IsInstalled.Provider
+      value={{
+        installedApps,
+        installApp,
+        uninstallApp,
+        isInstalled,
+      }}
+    >
       {children}
     </IsInstalled.Provider>
   );

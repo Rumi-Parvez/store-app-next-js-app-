@@ -5,34 +5,51 @@ import { toast } from "react-toastify";
 
 import { IsInstalled } from "@/context/installContext";
 
-const InstallButton = () => {
+interface InstallButtonProps {
+  appId: string;
+  appName: string;
+}
+
+const InstallButton = ({
+  appId,
+  appName,
+}: InstallButtonProps) => {
   const context = useContext(IsInstalled);
 
   if (!context) {
-    throw new Error("InstallButton must be inside InstallContext");
+    throw new Error(
+      "InstallButton must be inside InstallContext"
+    );
   }
 
-  const { installStatus, setInstallStatus } = context;
+  const {
+    installApp,
+    uninstallApp,
+    isInstalled,
+  } = context;
 
+  const installed = isInstalled(appId);
 
-  const handleClickInstall = () =>{
-    
-        setInstallStatus(!installStatus)
-      if(installStatus){
-        toast.success(`your app has installed`)
-      }
-      else{
-        toast.error(`it's has done to installing`)
-      }
-  }
+  const handleInstall = () => {
+    installApp(appId);
 
+    toast.success(`${appName} installed successfully!`);
+  };
+
+  const handleUninstall = () => {
+    uninstallApp(appId);
+
+    toast.info(`${appName} uninstalled successfully!`);
+  };
 
   return (
     <button
-      onClick={handleClickInstall}
-      className="btn btn-primary px-8 rounded-xl"
+      onClick={installed ? handleUninstall : handleInstall}
+      className={`btn px-8 rounded-xl ${
+        installed ? "btn-error" : "btn-primary"
+      }`}
     >
-      {installStatus ? "Installed" : "Install App"}
+      {installed ? "Uninstall" : "Install App"}
     </button>
   );
 };
