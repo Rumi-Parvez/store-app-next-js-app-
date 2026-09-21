@@ -1,3 +1,10 @@
+
+export interface Reviews {
+  rating: number
+  reviewCount: string
+  source: string
+}
+
 export interface IAppData {
   id: number
   name: string
@@ -12,8 +19,3 @@ export interface IAppData {
   popular: boolean
 }
 
-export interface Reviews {
-  rating: number
-  reviewCount: string
-  source: string
-}
