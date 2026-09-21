@@ -1,36 +1,62 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# App Store
 
-## Getting Started
+A modern and responsive App Store web application built with Next.js, TypeScript, React, Tailwind CSS, DaisyUI, JSON Server, React Toastify and React Icons.
 
-First, run the development server:
+The main purpose of this project is to create a real-world style application marketplace where users can explore applications, view complete application information, install applications, uninstall applications and manage their installed applications from a dedicated installation page.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This project was also created as a practical Next.js learning project to combine multiple frontend concepts into one complete application.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Project Introduction
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+App Store is a web-based application discovery and management platform.
 
-## Learn More
+The application provides a simple experience for users who want to:
 
-To learn more about Next.js, take a look at the following resources:
+- Discover applications
+- Explore trending applications
+- View application categories
+- Open individual application details
+- Check application ratings
+- Check review information
+- Read detailed descriptions
+- Install applications
+- Uninstall applications
+- View all installed applications
+- Navigate between application pages
+- Receive instant feedback through toast notifications
+- Get friendly error pages when something goes wrong
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+From the developer side, the project demonstrates how modern React and Next.js concepts can work together.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+The project uses Next.js App Router for routing and rendering, Server Components for data fetching, Client Components for interactive features, Context API for installation state management and TypeScript for type-safe development.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+# Developer
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Developer: Rumi Parvez
+
+Project Type: App Store Web Application
+
+Development Focus:
+
+- Frontend Development
+- Next.js
+- React
+- TypeScript
+- API Data Fetching
+- State Management
+- Responsive UI
+- Component-Based Architecture
+- User Experience
+
+---
+
+# Live Project
+
+Live Website:
+
+```text
+YOUR_LIVE_WEBSITE_URL
