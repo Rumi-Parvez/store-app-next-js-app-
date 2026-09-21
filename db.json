@@ -1,0 +1,852 @@
+[
+  {
+    "id": 1,
+    "name": "Instagram",
+    "shortDescription": "Photo and video sharing social network.",
+    "longDescription": "Instagram is a social platform for sharing photos and videos, watching short-form Reels, messaging people, and discovering creators and interests.",
+    "ratings": 4.0,
+    "category": "Social Media",
+    "company": "Meta Platforms, Inc.",
+    "image": "https://logo.clearbit.com/instagram.com",
+    "icon": "https://logo.clearbit.com/instagram.com",
+    "reviews": {
+      "rating": 4.0,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 2,
+    "name": "Facebook",
+    "shortDescription": "Social networking for connecting with people and communities.",
+    "longDescription": "Facebook lets people connect with friends and family, join communities, follow pages, share posts, watch videos, and use Marketplace and other services.",
+    "ratings": 4.6,
+    "category": "Social Media",
+    "company": "Meta Platforms, Inc.",
+    "image": "https://logo.clearbit.com/facebook.com",
+    "icon": "https://logo.clearbit.com/facebook.com",
+    "reviews": {
+      "rating": 4.6,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 3,
+    "name": "WhatsApp",
+    "shortDescription": "Private messaging and calling app.",
+    "longDescription": "WhatsApp provides messaging, voice calls, video calls, group chats, communities, media sharing, and status updates with end-to-end encryption for personal messages and calls.",
+    "ratings": 4.6,
+    "category": "Social Media",
+    "company": "WhatsApp LLC",
+    "image": "https://logo.clearbit.com/whatsapp.com",
+    "icon": "https://logo.clearbit.com/whatsapp.com",
+    "reviews": {
+      "rating": 4.6,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 4,
+    "name": "TikTok",
+    "shortDescription": "Short-form video and entertainment platform.",
+    "longDescription": "TikTok is a short-form video platform where people create, watch, discover, and share videos across many interests and trends.",
+    "ratings": 4.0,
+    "category": "Social Media",
+    "company": "TikTok Pte. Ltd.",
+    "image": "https://logo.clearbit.com/tiktok.com",
+    "icon": "https://logo.clearbit.com/tiktok.com",
+    "reviews": {
+      "rating": 4.0,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 5,
+    "name": "Snapchat",
+    "shortDescription": "Messaging and visual communication app.",
+    "longDescription": "Snapchat combines camera-based messaging with Stories, Spotlight, lenses, filters, and conversations between friends.",
+    "ratings": 4.2,
+    "category": "Social Media",
+    "company": "Snap Inc.",
+    "image": "https://logo.clearbit.com/snapchat.com",
+    "icon": "https://logo.clearbit.com/snapchat.com",
+    "reviews": {
+      "rating": 4.2,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": false
+  },
+  {
+    "id": 6,
+    "name": "Reddit",
+    "shortDescription": "Community discussion and content platform.",
+    "longDescription": "Reddit is organized into communities where users share links, posts, questions, discussions, images, and videos around specific interests.",
+    "ratings": 4.6,
+    "category": "Social Media",
+    "company": "Reddit, Inc.",
+    "image": "https://logo.clearbit.com/reddit.com",
+    "icon": "https://logo.clearbit.com/reddit.com",
+    "reviews": {
+      "rating": 4.6,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 7,
+    "name": "Pinterest",
+    "shortDescription": "Visual discovery and idea-sharing platform.",
+    "longDescription": "Pinterest helps people discover, save, organize, and share visual ideas covering topics such as recipes, fashion, home projects, travel, and design.",
+    "ratings": 4.2,
+    "category": "Social Media",
+    "company": "Pinterest, Inc.",
+    "image": "https://logo.clearbit.com/pinterest.com",
+    "icon": "https://logo.clearbit.com/pinterest.com",
+    "reviews": {
+      "rating": 4.2,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": false
+  },
+  {
+    "id": 8,
+    "name": "X",
+    "shortDescription": "Real-time conversation and social platform.",
+    "longDescription": "X is a social platform for public posts, conversations, news, communities, direct messages, live video, and other real-time content.",
+    "ratings": 4.8,
+    "category": "Social Media",
+    "company": "X Corp.",
+    "image": "https://logo.clearbit.com/x.com",
+    "icon": "https://logo.clearbit.com/x.com",
+    "reviews": {
+      "rating": 4.8,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 9,
+    "name": "Threads",
+    "shortDescription": "Text-based social conversation app.",
+    "longDescription": "Threads is a social conversation platform from Instagram for sharing text updates, photos, videos, links, and participating in public discussions.",
+    "ratings": 4.0,
+    "category": "Social Media",
+    "company": "Meta Platforms, Inc.",
+    "image": "https://logo.clearbit.com/threads.net",
+    "icon": "https://logo.clearbit.com/threads.net",
+    "reviews": {
+      "rating": 4.0,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": false
+  },
+  {
+    "id": 10,
+    "name": "Discord",
+    "shortDescription": "Community chat platform for text, voice, and video.",
+    "longDescription": "Discord provides servers, channels, direct messages, voice rooms, video calls, screen sharing, and communities for shared interests and gaming.",
+    "ratings": 4.3,
+    "category": "Social Media",
+    "company": "Discord Inc.",
+    "image": "https://logo.clearbit.com/discord.com",
+    "icon": "https://logo.clearbit.com/discord.com",
+    "reviews": {
+      "rating": 4.3,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 11,
+    "name": "Free Fire",
+    "shortDescription": "Fast-paced mobile battle royale game.",
+    "longDescription": "Free Fire is a mobile battle royale game where players compete in matches, collect equipment, and try to survive until the end.",
+    "ratings": 4.4,
+    "category": "Games",
+    "company": "Garena International I",
+    "image": "https://logo.clearbit.com/garena.com",
+    "icon": "https://logo.clearbit.com/garena.com",
+    "reviews": {
+      "rating": 4.4,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 12,
+    "name": "PUBG MOBILE",
+    "shortDescription": "Competitive mobile battle royale shooter.",
+    "longDescription": "PUBG MOBILE is a multiplayer battle royale game featuring large maps, survival matches, team play, and competitive modes.",
+    "ratings": 4.2,
+    "category": "Games",
+    "company": "Level Infinite",
+    "image": "https://logo.clearbit.com/pubgmobile.com",
+    "icon": "https://logo.clearbit.com/pubgmobile.com",
+    "reviews": {
+      "rating": 4.2,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 13,
+    "name": "Roblox",
+    "shortDescription": "Online platform for user-created games and experiences.",
+    "longDescription": "Roblox is an online platform where users can play and create interactive experiences, communicate with others, and explore a large library of community-created content.",
+    "ratings": 4.6,
+    "category": "Games",
+    "company": "Roblox Corporation",
+    "image": "https://logo.clearbit.com/roblox.com",
+    "icon": "https://logo.clearbit.com/roblox.com",
+    "reviews": {
+      "rating": 4.6,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 14,
+    "name": "Minecraft",
+    "shortDescription": "Sandbox game about building and exploration.",
+    "longDescription": "Minecraft is a sandbox game focused on exploring worlds, gathering resources, crafting items, building structures, and playing in different game modes.",
+    "ratings": 4.3,
+    "category": "Games",
+    "company": "Mojang Studios",
+    "image": "https://logo.clearbit.com/minecraft.net",
+    "icon": "https://logo.clearbit.com/minecraft.net",
+    "reviews": {
+      "rating": 4.3,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 15,
+    "name": "Clash of Clans",
+    "shortDescription": "Strategy game about building villages and clans.",
+    "longDescription": "Clash of Clans is a strategy game where players build villages, train troops, defend bases, and cooperate or compete through clans.",
+    "ratings": 4.5,
+    "category": "Games",
+    "company": "Supercell",
+    "image": "https://logo.clearbit.com/supercell.com",
+    "icon": "https://logo.clearbit.com/supercell.com",
+    "reviews": {
+      "rating": 4.5,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 16,
+    "name": "Candy Crush Saga",
+    "shortDescription": "Match-three puzzle game.",
+    "longDescription": "Candy Crush Saga is a puzzle game based on matching candies to complete level objectives, with boosters and progressively challenging stages.",
+    "ratings": 4.3,
+    "category": "Games",
+    "company": "King",
+    "image": "https://logo.clearbit.com/king.com",
+    "icon": "https://logo.clearbit.com/king.com",
+    "reviews": {
+      "rating": 4.3,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 17,
+    "name": "Call of Duty: Mobile",
+    "shortDescription": "Mobile action shooter with multiplayer modes.",
+    "longDescription": "Call of Duty: Mobile brings multiplayer and battle royale gameplay to mobile devices with maps, modes, weapons, and seasonal content.",
+    "ratings": 4.3,
+    "category": "Games",
+    "company": "Activision Publishing, Inc.",
+    "image": "https://logo.clearbit.com/activision.com",
+    "icon": "https://logo.clearbit.com/activision.com",
+    "reviews": {
+      "rating": 4.3,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 18,
+    "name": "eFootball",
+    "shortDescription": "Football simulation game for mobile devices.",
+    "longDescription": "eFootball is a football game featuring licensed teams and players, competitive matches, team building, and online gameplay.",
+    "ratings": 4.5,
+    "category": "Games",
+    "company": "KONAMI",
+    "image": "https://logo.clearbit.com/konami.com",
+    "icon": "https://logo.clearbit.com/konami.com",
+    "reviews": {
+      "rating": 4.5,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 19,
+    "name": "8 Ball Pool",
+    "shortDescription": "Online pool game.",
+    "longDescription": "8 Ball Pool is a multiplayer billiards game where players compete in pool matches, earn coins, and progress through different tables and competitions.",
+    "ratings": 4.7,
+    "category": "Games",
+    "company": "Miniclip",
+    "image": "https://logo.clearbit.com/miniclip.com",
+    "icon": "https://logo.clearbit.com/miniclip.com",
+    "reviews": {
+      "rating": 4.7,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": false
+  },
+  {
+    "id": 20,
+    "name": "Subway Surfers",
+    "shortDescription": "Endless runner game.",
+    "longDescription": "Subway Surfers is an endless runner where players navigate railway tracks, avoid obstacles, collect items, and progress through changing locations.",
+    "ratings": 4.5,
+    "category": "Games",
+    "company": "SYBO Games",
+    "image": "https://logo.clearbit.com/sybogames.com",
+    "icon": "https://logo.clearbit.com/sybogames.com",
+    "reviews": {
+      "rating": 4.5,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 21,
+    "name": "Amazon Shopping",
+    "shortDescription": "Online marketplace for products and services.",
+    "longDescription": "Amazon Shopping lets customers browse product categories, compare listings, place orders, manage deliveries, and access Amazon services.",
+    "ratings": 4.3,
+    "category": "Ecommerce",
+    "company": "Amazon Mobile LLC",
+    "image": "https://logo.clearbit.com/amazon.com",
+    "icon": "https://logo.clearbit.com/amazon.com",
+    "reviews": {
+      "rating": 4.3,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 22,
+    "name": "eBay",
+    "shortDescription": "Marketplace for buying and selling products.",
+    "longDescription": "eBay is an online marketplace supporting product listings, auctions, fixed-price purchases, seller tools, order tracking, and buyer protection programs.",
+    "ratings": 4.6,
+    "category": "Ecommerce",
+    "company": "eBay Mobile",
+    "image": "https://logo.clearbit.com/ebay.com",
+    "icon": "https://logo.clearbit.com/ebay.com",
+    "reviews": {
+      "rating": 4.6,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 23,
+    "name": "Etsy",
+    "shortDescription": "Marketplace for handmade and creative goods.",
+    "longDescription": "Etsy connects shoppers with independent sellers offering handmade items, personalized products, craft supplies, vintage goods, and creative products.",
+    "ratings": 4.7,
+    "category": "Ecommerce",
+    "company": "Etsy, Inc.",
+    "image": "https://logo.clearbit.com/etsy.com",
+    "icon": "https://logo.clearbit.com/etsy.com",
+    "reviews": {
+      "rating": 4.7,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 24,
+    "name": "Walmart",
+    "shortDescription": "Shopping app for products, groceries, and services.",
+    "longDescription": "Walmart's app supports shopping for products and groceries, pickup and delivery options, order tracking, and access to Walmart services.",
+    "ratings": 4.7,
+    "category": "Ecommerce",
+    "company": "Walmart",
+    "image": "https://logo.clearbit.com/walmart.com",
+    "icon": "https://logo.clearbit.com/walmart.com",
+    "reviews": {
+      "rating": 4.7,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 25,
+    "name": "AliExpress",
+    "shortDescription": "Global online shopping marketplace.",
+    "longDescription": "AliExpress is a global marketplace connecting shoppers with sellers offering electronics, fashion, home products, accessories, and many other categories.",
+    "ratings": 4.5,
+    "category": "Ecommerce",
+    "company": "Alibaba.com Singapore E-Commerce Private Limited",
+    "image": "https://logo.clearbit.com/aliexpress.com",
+    "icon": "https://logo.clearbit.com/aliexpress.com",
+    "reviews": {
+      "rating": 4.5,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 26,
+    "name": "SHEIN",
+    "shortDescription": "Online fashion and lifestyle shopping platform.",
+    "longDescription": "SHEIN is an online retailer focused on fashion, accessories, beauty, home products, and lifestyle items with a global customer base.",
+    "ratings": 4.6,
+    "category": "Ecommerce",
+    "company": "Roadget Business PTE. LTD.",
+    "image": "https://logo.clearbit.com/shein.com",
+    "icon": "https://logo.clearbit.com/shein.com",
+    "reviews": {
+      "rating": 4.6,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 27,
+    "name": "Temu",
+    "shortDescription": "Online marketplace with products across many categories.",
+    "longDescription": "Temu is an online marketplace offering products across categories including home, electronics, fashion, accessories, and everyday goods.",
+    "ratings": 4.5,
+    "category": "Ecommerce",
+    "company": "Whaleco Inc.",
+    "image": "https://logo.clearbit.com/temu.com",
+    "icon": "https://logo.clearbit.com/temu.com",
+    "reviews": {
+      "rating": 4.5,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 28,
+    "name": "Etsy Seller",
+    "shortDescription": "Seller management app for Etsy shops.",
+    "longDescription": "Etsy Seller provides tools for Etsy shop owners to manage listings, orders, messages, inventory, and shop activity from mobile devices.",
+    "ratings": 4.5,
+    "category": "Ecommerce",
+    "company": "Etsy, Inc.",
+    "image": "https://logo.clearbit.com/etsy.com",
+    "icon": "https://logo.clearbit.com/etsy.com",
+    "reviews": {
+      "rating": 4.5,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": false
+  },
+  {
+    "id": 29,
+    "name": "Daraz",
+    "shortDescription": "Online shopping marketplace popular in South Asia.",
+    "longDescription": "Daraz is an e-commerce marketplace serving South Asian markets with categories such as electronics, fashion, beauty, home products, and groceries.",
+    "ratings": 4.5,
+    "category": "Ecommerce",
+    "company": "Daraz",
+    "image": "https://logo.clearbit.com/daraz.com",
+    "icon": "https://logo.clearbit.com/daraz.com",
+    "reviews": {
+      "rating": 4.5,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 30,
+    "name": "Shop",
+    "shortDescription": "Shopping and order tracking app.",
+    "longDescription": "Shop helps customers discover products, follow orders, and manage purchases from participating online stores.",
+    "ratings": 4.5,
+    "category": "Ecommerce",
+    "company": "Shopify Inc.",
+    "image": "https://logo.clearbit.com/shop.app",
+    "icon": "https://logo.clearbit.com/shop.app",
+    "reviews": {
+      "rating": 4.5,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": false
+  },
+  {
+    "id": 31,
+    "name": "Google Chrome",
+    "shortDescription": "Web browser for browsing the internet.",
+    "longDescription": "Google Chrome is a web browser for accessing websites, managing tabs, using bookmarks, syncing browsing data, and supporting modern web applications.",
+    "ratings": 4.1,
+    "category": "Browser",
+    "company": "Google LLC",
+    "image": "https://logo.clearbit.com/google.com",
+    "icon": "https://logo.clearbit.com/google.com",
+    "reviews": {
+      "rating": 4.1,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 32,
+    "name": "Spotify",
+    "shortDescription": "Music and podcast streaming service.",
+    "longDescription": "Spotify provides access to music, podcasts, playlists, albums, artists, and personalized recommendations through streaming.",
+    "ratings": 4.3,
+    "category": "Music",
+    "company": "Spotify AB",
+    "image": "https://logo.clearbit.com/spotify.com",
+    "icon": "https://logo.clearbit.com/spotify.com",
+    "reviews": {
+      "rating": 4.3,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 33,
+    "name": "Netflix",
+    "shortDescription": "Streaming service for films and television shows.",
+    "longDescription": "Netflix is a subscription streaming service offering movies, television series, documentaries, and Netflix-produced content on supported devices.",
+    "ratings": 4.2,
+    "category": "Entertainment",
+    "company": "Netflix, Inc.",
+    "image": "https://logo.clearbit.com/netflix.com",
+    "icon": "https://logo.clearbit.com/netflix.com",
+    "reviews": {
+      "rating": 4.2,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 34,
+    "name": "YouTube",
+    "shortDescription": "Video platform for watching and sharing videos.",
+    "longDescription": "YouTube hosts user-created and professional video content, live streams, music, educational material, Shorts, and creator channels.",
+    "ratings": 4.2,
+    "category": "Video",
+    "company": "Google LLC",
+    "image": "https://logo.clearbit.com/youtube.com",
+    "icon": "https://logo.clearbit.com/youtube.com",
+    "reviews": {
+      "rating": 4.2,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 35,
+    "name": "ChatGPT",
+    "shortDescription": "AI assistant for conversation, writing, learning, and problem solving.",
+    "longDescription": "ChatGPT is an AI assistant that can help users with questions, writing, coding, learning, brainstorming, and other supported tasks.",
+    "ratings": 4.8,
+    "category": "AI & Productivity",
+    "company": "OpenAI",
+    "image": "https://logo.clearbit.com/openai.com",
+    "icon": "https://logo.clearbit.com/openai.com",
+    "reviews": {
+      "rating": 4.8,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 36,
+    "name": "Canva",
+    "shortDescription": "Graphic design and visual content creation platform.",
+    "longDescription": "Canva provides templates and tools for creating presentations, social posts, documents, videos, posters, graphics, and other visual content.",
+    "ratings": 4.8,
+    "category": "Design",
+    "company": "Canva Pty Ltd",
+    "image": "https://logo.clearbit.com/canva.com",
+    "icon": "https://logo.clearbit.com/canva.com",
+    "reviews": {
+      "rating": 4.8,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 37,
+    "name": "Google Maps",
+    "shortDescription": "Maps, navigation, and local discovery app.",
+    "longDescription": "Google Maps provides maps, directions, navigation, place information, traffic data, public transit information, and local business discovery.",
+    "ratings": 4.2,
+    "category": "Navigation",
+    "company": "Google LLC",
+    "image": "https://logo.clearbit.com/maps.google.com",
+    "icon": "https://logo.clearbit.com/maps.google.com",
+    "reviews": {
+      "rating": 4.2,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 38,
+    "name": "Google Drive",
+    "shortDescription": "Cloud storage and file management service.",
+    "longDescription": "Google Drive stores files in the cloud and supports file organization, sharing, collaboration, and access across supported devices.",
+    "ratings": 4.4,
+    "category": "Productivity",
+    "company": "Google LLC",
+    "image": "https://logo.clearbit.com/drive.google.com",
+    "icon": "https://logo.clearbit.com/drive.google.com",
+    "reviews": {
+      "rating": 4.4,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 39,
+    "name": "Google Photos",
+    "shortDescription": "Photo and video backup and organization service.",
+    "longDescription": "Google Photos helps users back up, organize, search, edit, and share photos and videos across supported devices.",
+    "ratings": 4.5,
+    "category": "Photography",
+    "company": "Google LLC",
+    "image": "https://logo.clearbit.com/photos.google.com",
+    "icon": "https://logo.clearbit.com/photos.google.com",
+    "reviews": {
+      "rating": 4.5,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 40,
+    "name": "Gmail",
+    "shortDescription": "Email service for personal and professional communication.",
+    "longDescription": "Gmail provides email messaging, inbox organization, spam protection, search, attachments, labels, and integration with Google services.",
+    "ratings": 4.3,
+    "category": "Communication",
+    "company": "Google LLC",
+    "image": "https://logo.clearbit.com/gmail.com",
+    "icon": "https://logo.clearbit.com/gmail.com",
+    "reviews": {
+      "rating": 4.3,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 41,
+    "name": "Microsoft Teams",
+    "shortDescription": "Work and study communication and collaboration platform.",
+    "longDescription": "Microsoft Teams supports chat, meetings, calls, file sharing, collaboration, and team-based communication for work and education.",
+    "ratings": 4.4,
+    "category": "Productivity",
+    "company": "Microsoft Corporation",
+    "image": "https://logo.clearbit.com/microsoft.com",
+    "icon": "https://logo.clearbit.com/microsoft.com",
+    "reviews": {
+      "rating": 4.4,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": false
+  },
+  {
+    "id": 42,
+    "name": "Notion",
+    "shortDescription": "Workspace for notes, documents, databases, and projects.",
+    "longDescription": "Notion combines notes, documents, databases, task management, project organization, and team collaboration in a flexible workspace.",
+    "ratings": 4.4,
+    "category": "Productivity",
+    "company": "Notion Labs, Inc.",
+    "image": "https://logo.clearbit.com/notion.so",
+    "icon": "https://logo.clearbit.com/notion.so",
+    "reviews": {
+      "rating": 4.4,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 43,
+    "name": "Duolingo",
+    "shortDescription": "Language-learning app with gamified lessons.",
+    "longDescription": "Duolingo provides structured language-learning lessons with exercises for vocabulary, reading, listening, speaking, and practice.",
+    "ratings": 4.7,
+    "category": "Education",
+    "company": "Duolingo",
+    "image": "https://logo.clearbit.com/duolingo.com",
+    "icon": "https://logo.clearbit.com/duolingo.com",
+    "reviews": {
+      "rating": 4.7,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 44,
+    "name": "Google Meet",
+    "shortDescription": "Video meeting and calling service.",
+    "longDescription": "Google Meet provides video meetings and calls with features such as screen sharing, captions, chat, and collaboration for supported accounts.",
+    "ratings": 4.5,
+    "category": "Communication",
+    "company": "Google LLC",
+    "image": "https://logo.clearbit.com/meet.google.com",
+    "icon": "https://logo.clearbit.com/meet.google.com",
+    "reviews": {
+      "rating": 4.5,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 45,
+    "name": "Adobe Acrobat Reader",
+    "shortDescription": "PDF reading and document management app.",
+    "longDescription": "Adobe Acrobat Reader lets users view, annotate, sign, share, and manage PDF documents on supported devices.",
+    "ratings": 4.6,
+    "category": "Tools",
+    "company": "Adobe",
+    "image": "https://logo.clearbit.com/adobe.com",
+    "icon": "https://logo.clearbit.com/adobe.com",
+    "reviews": {
+      "rating": 4.6,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 46,
+    "name": "Google Calendar",
+    "shortDescription": "Calendar and scheduling app.",
+    "longDescription": "Google Calendar helps users organize events, meetings, reminders, schedules, invitations, and shared calendars.",
+    "ratings": 4.5,
+    "category": "Productivity",
+    "company": "Google LLC",
+    "image": "https://logo.clearbit.com/calendar.google.com",
+    "icon": "https://logo.clearbit.com/calendar.google.com",
+    "reviews": {
+      "rating": 4.5,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": false
+  },
+  {
+    "id": 47,
+    "name": "Google Translate",
+    "shortDescription": "Translation app supporting many languages.",
+    "longDescription": "Google Translate provides text and other supported translation features between languages, including camera and conversation tools on supported devices.",
+    "ratings": 4.3,
+    "category": "Education & Language",
+    "company": "Google LLC",
+    "image": "https://logo.clearbit.com/translate.google.com",
+    "icon": "https://logo.clearbit.com/translate.google.com",
+    "reviews": {
+      "rating": 4.3,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 48,
+    "name": "Microsoft OneDrive",
+    "shortDescription": "Cloud storage and file synchronization service.",
+    "longDescription": "OneDrive stores files and photos in the cloud and supports synchronization, sharing, organization, and access across devices.",
+    "ratings": 4.5,
+    "category": "Cloud Storage",
+    "company": "Microsoft Corporation",
+    "image": "https://logo.clearbit.com/onedrive.com",
+    "icon": "https://logo.clearbit.com/onedrive.com",
+    "reviews": {
+      "rating": 4.5,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": false
+  },
+  {
+    "id": 49,
+    "name": "Zoom Workplace",
+    "shortDescription": "Video meetings and workplace collaboration platform.",
+    "longDescription": "Zoom Workplace provides video meetings, chat, collaboration, and communication features for individuals, teams, schools, and organizations.",
+    "ratings": 4.1,
+    "category": "Communication",
+    "company": "Zoom Communications, Inc.",
+    "image": "https://logo.clearbit.com/zoom.us",
+    "icon": "https://logo.clearbit.com/zoom.us",
+    "reviews": {
+      "rating": 4.1,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": true
+  },
+  {
+    "id": 50,
+    "name": "Google Keep",
+    "shortDescription": "Simple notes and list-taking app.",
+    "longDescription": "Google Keep lets users create notes, checklists, reminders, drawings, labels, and shared notes with synchronization across supported devices.",
+    "ratings": 4.1,
+    "category": "Productivity",
+    "company": "Google LLC",
+    "image": "https://logo.clearbit.com/keep.google.com",
+    "icon": "https://logo.clearbit.com/keep.google.com",
+    "reviews": {
+      "rating": 4.1,
+      "reviewCount": "millions",
+      "source": "Google Play"
+    },
+    "popular": false
+  }
+]
