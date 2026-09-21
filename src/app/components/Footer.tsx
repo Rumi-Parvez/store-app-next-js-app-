@@ -8,7 +8,7 @@ import logo from "@/assets/logo.png"
 
 const Footer = () => {
     return (
-        <div className="bg-blue-950 text-white py-5" >
+        <div className=" container mx-auto bg-blue-950  text-white py-5" >
             <div className="px-10 py-4  flex justify-between items-center m-auto border-b border-gray-400 mb-5 pb-10">
                 <div  className="flex gap-2 items-center " >
                     <Image src={logo} height={40} width={40} alt="Store APP logo"></Image>
